@@ -7,7 +7,8 @@ end
 
 puts unsafe?(49)
 
-
 def not_safe?(speed)
 
 end
+
+puts not_safe?(49)
