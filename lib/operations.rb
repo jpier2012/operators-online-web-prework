@@ -13,5 +13,5 @@ end
 # puts unsafe?(49)
 
 speed = 0
-# puts false unless speed < 40 || speed > 60
+puts false unless speed < 40 || speed > 60
 puts true if speed < 40 || speed > 60
