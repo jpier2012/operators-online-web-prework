@@ -14,4 +14,6 @@ end
 
 speed = 40
 puts false unless speed < 40 || speed > 60
+
+speed = 0
 puts true if speed < 40 || speed > 60
