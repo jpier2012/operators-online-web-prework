@@ -15,4 +15,3 @@ puts not_safe?(49)
 
 puts false unless speed < 40 || speed > 60
 puts true if speed < 40 || speed > 60
-
